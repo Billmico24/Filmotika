@@ -1,4 +1,4 @@
-###FILMOTIKA
+### FILMOTIKA
 
 ![Filmotika](./src/images/filmotika.png)
 

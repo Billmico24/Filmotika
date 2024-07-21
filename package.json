@@ -1,21 +1,21 @@
 {
-  "name": "teamproject02",
+  "name": "Filmotika",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ardevazsign.github.io/teamproject02",
+  "homepage": "https://Billmico24.github.io/Filmotika",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /teamproject02/"
+    "build": "parcel build src/*.html --public-url /Filmotika/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ardevazsign/teamproject02"
+    "url": "git+https://github.com/Billmico24/Filmotika"
   },
   "keywords": [],
-  "author": "owen saavedra <newojunior@gmail.com>",
+  "author": "Bill Mico Malazarte <Billmico24@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ardevazsign/teamproject02"
+    "url": "https://github.com/Billmico24/Filmotika"
   },
   "dependencies": {
     "@parcel/transformer-posthtml": "^2.12.0",
